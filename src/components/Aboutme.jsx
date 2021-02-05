@@ -14,7 +14,7 @@ class About extends Component {
               className="avatar-img"
               
                />
-             <p className="contact-text" >My name is Ernest Thuku Macharia. I am a recent graduate holding a Bachelor in Computer Technology from Meru University of Science and Technology. I am a great fan of Technology and the it goes up each and every day. I am a passionate guy who values working very hard and having a consistent way of working. I like learning a lot since its the on that makes me solve many problem and remaing relevant in the society. I also like and have thatzeal in solving people's problems and difficulties, thus techbnology has granted me this power through creation of web apps, mobile applications, desktop applications, smart systems using AI and ML and many more.</p>
+             <p className="contact-text" >My name is Ernest Thuku Macharia. I am a recent graduate holding a Bachelor in Computer Technology from Meru University of Science and Technology. I am a great fan of Technology and the passion grows up each and every day. I am a passionate guy who values working very hard and having a consistent way of working. I like learning a lot since its the one that makes me solve many problems and remaining relevant in the society. I also like and have that zeal in solving people's problems and difficulties, thus techbnology has granted me this power through creation of web apps, mobile applications, desktop applications, smart systems using AI and ML and many more.</p>
 
           </Cell>
           </Grid>
